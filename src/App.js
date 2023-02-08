@@ -6,7 +6,9 @@ import Image from './Image'
 
 function App() {
   let data = {
-    image : [fireflies,whisper]
+    // img1 : fireflies,
+    // img2 : whisper
+    image:[fireflies,whisper]
   }
   return (
     <div>

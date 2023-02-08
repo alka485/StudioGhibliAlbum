@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+.gallery image{
+    width: 100%;
+    height: auto;
+}
